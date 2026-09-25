@@ -3,8 +3,16 @@
     "ADMIN-Hoang-DZ-VCL-123": {
       "hwid": "0",
       "created_at": "2026-09-21",
-      "expires_at": "2026-09-24",
+      "expires_at": "2026-09-22",
       "note": "hoàng siêu dz"
+    },
+    "phongdongthang": {
+      "hwid": [
+        "moLbmGL7YCP-BmM1OufkjL-_wv43WUkqZ-FKpxGzflI"
+      ],
+      "created_at": "2026-09-25",
+      "expires_at": "2026-10-05",
+      "note": "hoangdzvcl"
     }
   }
 }
